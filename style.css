@@ -399,6 +399,10 @@ a {
   height: 100vh;
   min-height: 80rem;
   max-height: 120rem;
+  position: relative;
+    background: url('assets/293e9985-c7d4-45fe-b6ce-666bf1a0def5.jpg') no-repeat center center;
+    background-size: cover;
+  color: white;
 }
 
 .home-hero__content {
